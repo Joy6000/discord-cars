@@ -1,11 +1,9 @@
 const cars = [
-    "https://images.app.goo.gl/52C75PJd99qJ7v2f7",
-    "https://images.app.goo.gl/mhXgr4rBMV8j8PiH9",
-    "https://images.app.goo.gl/f26ZLGJkGQmBYj57A",
-    "https://images.app.goo.gl/Dxx5PFPmV3J1zhHq6",
-    "https://images.app.goo.gl/JMUBHEi3fqm6De917",
-    "https://images.app.goo.gl/smiM2RVVqqNweo4m6",
-    "https://images.app.goo.gl/KEPpt6jX5GHVRT3E9"
+    "https://media.discordapp.net/attachments/796133907803930666/796212995775791114/JDPA_202020Audi20A320Dark20Gray20Front20View.png?width=901&height=676",
+    "https://media.discordapp.net/attachments/796133907803930666/796213151678726154/MW-HY837_at_gla_ZH_20200122173813.png",
+    "https://media.discordapp.net/attachments/796133907803930666/796214062467907624/home-shopping-image.png",
+    "https://media.discordapp.net/attachments/796133907803930666/796214163994574878/JDPA_202020Audi20A320Dark20Gray20Front20View.png?width=901&height=676",
+    "https://media.discordapp.net/attachments/796133907803930666/796214316776554506/USC70JES052A021001.png"
     
    ];
    
