@@ -1,15 +1,13 @@
 {
   "name": "discord-cars",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["random cars", "cars"],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "discord-trucks": "^1.0.0"
-  }
+  "dependencies": {}
 }
